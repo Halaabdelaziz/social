@@ -1,0 +1,63 @@
+/* start of general Styling */
+body{
+    margin: 0 15px;
+    background-color: lightgray
+}
+.mainStyleBorder{
+    box-shadow: 3px 3px 10px #8888 ;
+}
+/* End of general Styling */
+
+.navbar{
+    padding: 0;
+
+}
+.food{
+    background-color: rgb(182, 179, 179);
+}
+.news{
+    background-color: rgb(66, 65, 65);
+}
+.w3schools{
+    background-color: rgb(85, 85, 85) ;
+}
+.labels{
+    background-color: rgb(105, 103, 103) ;
+}
+.games{
+    background-color: rgb(109, 108, 108) ;
+}
+.friends{
+    background-color: rgb(116, 112, 112) ;
+}
+.design{
+    background-color: rgb(196, 192, 192) ;
+}
+.art{
+    background-color: rgb(219, 214, 214) ;
+}
+
+span{
+
+    padding: 3px;
+    font-size: 14px;
+    border-radius: 3px;
+}
+button{
+    background-color: 	#282849de!important;
+    border:none!important;
+    border-radius: 0!important;
+}
+.holidayButton{
+    background-color: rgba(102, 98, 98, 0.801)!important;
+}
+.acceptRequest{
+    background-color: rgba(0, 255, 0, 0.733)!important;
+}
+.cancelRequest{
+    background-color: rgba(255, 0, 0, 0.808)!important;
+}
+.badge{
+    background-color: rgba(0, 255, 0, 0.733);
+    margin-left: 10px!important;
+}
